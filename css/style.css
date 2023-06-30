@@ -1,2 +1,9 @@
 @import "reset.css";
 @import "general.css";
+
+/* MAIN */
+
+h1.text-center {
+    text-align: center;
+    margin: 20px 0;
+}
